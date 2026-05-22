@@ -6,6 +6,7 @@
 - Sea posible subir materiales y/o links de zoom de las reuniones.
 - Configurar funcionalidades dependiendo del círculo (cada círculo lo configura).
 - La HU 16 podría subdividirse en la notificación manual.
+- implementar un sistema de logros y participación dentro del perfil de cada estudiante. Que pueda mostrar actividades destacadas, competencias ganadas y reconocimientos obtenidos durante el ciclo. ( ejemplo “se hizo una competencia de programcion en la semana 6 y la gano pablito”)
 
 - Pasarle videos sobre Harness Engineeging
 
